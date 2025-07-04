@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://luissalvadorheysen.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:lheysent@uchicago.edu"><img src="https://img.shields.io/badge/Email-lheysent%40uchicago.edu-blue?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/luisheysen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-LuisHeysen-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/lheysent/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-LuisHeysen-blue?style=for-the-badge&logo=linkedin"/></a>
   <img src="https://img.shields.io/badge/Location-Chicago,%20IL-red?style=for-the-badge&logo=googlemaps"/>
 </p>
 
