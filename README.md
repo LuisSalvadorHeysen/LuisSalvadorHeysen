@@ -71,10 +71,5 @@ I'm a rising Junior at UChicago from Perú, passionate about theoretical compute
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisSalvadorHeysen&show_icons=true&theme=radical" alt="Luis's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisSalvadorHeysen&theme=radical" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
