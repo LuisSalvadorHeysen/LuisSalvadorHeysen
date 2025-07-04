@@ -16,8 +16,6 @@
 
 I'm a rising Junior at UChicago from Perú, passionate about theoretical computer science, math, and their real-world applications in quantitative finance, machine learning, and software engineering. I love building innovative tech and am currently seeking Summer 2026 internships in these fields.
 
-<strong>Vim & Linux enthusiast</strong> — I thrive in the terminal and love efficient, open-source workflows!
-
 ---
 
 ## 🛠️ Tech Stack
@@ -43,6 +41,8 @@ I'm a rising Junior at UChicago from Perú, passionate about theoretical compute
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth2-008080?style=for-the-badge&logo=oauth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
 </p>
 
 ---
