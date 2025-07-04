@@ -47,26 +47,6 @@ I'm a rising Junior at UChicago from Perú, passionate about theoretical compute
 
 ---
 
-## 🚀 Featured Projects
-
-### [Smart AI Email Client](https://github.com/LuisSalvadorHeysen/smart_ai_email)
-> AI-powered email management system: auto-categorizes, extracts action items, generates replies, and tracks internship applications in real-time.<br>
-> <sub>Next.js 15 · TypeScript · Google Gemini AI · Gmail API · Mantine UI · Vercel</sub>
-
-### [Machine Learning-Driven Multi-Asset Algorithmic Trading Platform](https://github.com/LuisSalvadorHeysen/BitcoinBot)
-> Educational trading bot suite for SPY & BTC. ML, backtesting, explainable AI, 18+ indicators, SHAP, modular code.<br>
-> <sub>Python · scikit-learn · pandas · matplotlib · SHAP</sub>
-
-### [UChicago Exam Scheduler](https://github.com/LuisSalvadorHeysen/uchicago-exam-scheduler)
-> Web app for UChicago students to lookup and export final exam times as calendar events.<br>
-> <sub>HTML · CSS · JavaScript · GitHub Pages</sub>
-
-### [MyShell - Custom Unix Shell](https://github.com/LuisSalvadorHeysen/shell)
-> Lightweight Unix shell in C: built-in commands, I/O redirection, batch processing, robust error handling.<br>
-> <sub>C · Unix System Programming · Makefile</sub>
-
----
-
 ## 🏆 Awards & Leadership
 
 - Competitive Programming Director, UChicago ACM: Led workshops for 50+ students, wrote problems for 3 college-wide contests
@@ -74,6 +54,10 @@ I'm a rising Junior at UChicago from Perú, passionate about theoretical compute
 - International STEM Problem Solving Olympiad: Silver Medalist
 - ISIJ: 3× Individual Silver, 1× Bronze National Team
 - Raspberry Pi's Coolest Projects: Favorite Project
+
+---
+
+> 🚀 Want to see my projects? Check out my portfolio: [luissalvadorheysen.github.io/portfolio/](https://luissalvadorheysen.github.io/portfolio/)
 
 ---
 
