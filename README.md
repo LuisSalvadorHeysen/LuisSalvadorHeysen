@@ -18,26 +18,6 @@ I'm a rising Junior at UChicago from Perú, passionate about theoretical compute
 
 ---
 
-## 🚀 Featured Projects
-
-### [Smart AI Email Client](https://luissalvadorheysen.github.io/portfolio/)
-> AI-powered email management system: auto-categorizes, extracts action items, generates replies, and tracks internship applications in real-time.<br>
-> <sub>Next.js 15 · TypeScript · Google Gemini AI · Gmail API · Mantine UI · Vercel</sub>
-
-### [Machine Learning-Driven Multi-Asset Algorithmic Trading Platform](https://luissalvadorheysen.github.io/portfolio/)
-> Educational trading bot suite for SPY & BTC. ML, backtesting, explainable AI, 18+ indicators, SHAP, modular code.<br>
-> <sub>Python · scikit-learn · pandas · matplotlib · SHAP</sub>
-
-### [UChicago Exam Scheduler](https://luissalvadorheysen.github.io/portfolio/)
-> Web app for UChicago students to lookup and export final exam times as calendar events.<br>
-> <sub>HTML · CSS · JavaScript · GitHub Pages</sub>
-
-### [MyShell - Custom Unix Shell](https://luissalvadorheysen.github.io/portfolio/)
-> Lightweight Unix shell in C: built-in commands, I/O redirection, batch processing, robust error handling.<br>
-> <sub>C · Unix System Programming · Makefile</sub>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -62,6 +42,26 @@ I'm a rising Junior at UChicago from Perú, passionate about theoretical compute
   <img src="https://img.shields.io/badge/REST%20APIs-6DB33F?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/OAuth2-008080?style=for-the-badge&logo=oauth&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### [Smart AI Email Client](https://luissalvadorheysen.github.io/portfolio/)
+> AI-powered email management system: auto-categorizes, extracts action items, generates replies, and tracks internship applications in real-time.<br>
+> <sub>Next.js 15 · TypeScript · Google Gemini AI · Gmail API · Mantine UI · Vercel</sub>
+
+### [Machine Learning-Driven Multi-Asset Algorithmic Trading Platform](https://luissalvadorheysen.github.io/portfolio/)
+> Educational trading bot suite for SPY & BTC. ML, backtesting, explainable AI, 18+ indicators, SHAP, modular code.<br>
+> <sub>Python · scikit-learn · pandas · matplotlib · SHAP</sub>
+
+### [UChicago Exam Scheduler](https://luissalvadorheysen.github.io/portfolio/)
+> Web app for UChicago students to lookup and export final exam times as calendar events.<br>
+> <sub>HTML · CSS · JavaScript · GitHub Pages</sub>
+
+### [MyShell - Custom Unix Shell](https://luissalvadorheysen.github.io/portfolio/)
+> Lightweight Unix shell in C: built-in commands, I/O redirection, batch processing, robust error handling.<br>
+> <sub>C · Unix System Programming · Makefile</sub>
 
 ---
 
