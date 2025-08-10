@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Luis+Heysen!;Aspiring+Software+Engineer+%7C+Quant+%7C+AI+Enthusiast;UChicago+%7C+Building+the+Future+of+Tech" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Luis+Heysen!;Aspiring+Software+Engineer+%7C+Quant+%7C+AI+Enthusiast" alt="Typing SVG"/>
 </p>
 
 <p align="center">
